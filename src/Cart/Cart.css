@@ -1,0 +1,10 @@
+.cart{
+    background-color: rgb(189, 107, 107);
+    position: sticky;
+    height: 500px;
+    
+}
+
+.cart-name{
+    padding-top: 30px;
+}

@@ -1,0 +1,18 @@
+.food{
+    width: 400;
+    border: 2px solid lightsalmon;
+    margin: 90px;
+}
+.food img{
+    height: 300px;
+    width: 300px;
+    margin: 30px;
+    padding: 30px;
+}
+
+.btn-meal{
+    margin: 20px;
+    background-color: orange;
+    border-radius: 5px;
+    padding: 6px;
+}

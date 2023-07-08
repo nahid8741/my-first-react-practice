@@ -1,0 +1,20 @@
+.header-container{
+    background-color: bisque;
+    height: 70px;
+    
+}
+
+.header{
+    padding: 25px;
+    margin-left: 800px;
+    
+}
+
+.header a{
+    text-decoration: none;
+    margin-right: 30px;
+}
+
+.header a:hover{
+    color: lightcoral;
+}

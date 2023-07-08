@@ -1,0 +1,11 @@
+.food-container{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.cart-container{
+    /* background-color: lemonchiffon; */
+    height: 600px;
+    width: 500px;
+    margin-top: 80px;
+}
